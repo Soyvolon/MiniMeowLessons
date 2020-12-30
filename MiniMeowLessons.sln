@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MiniMeowLessons.AppOne", "MiniMeowLessons.AppOne\MiniMeowLessons.AppOne.csproj", "{19C99FB3-9936-48D8-A2A7-0110D590ED5D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. sln", "1. sln", "{67F024F6-BDA1-42B8-9F5E-6F23A7191449}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19C99FB3-9936-48D8-A2A7-0110D590ED5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19C99FB3-9936-48D8-A2A7-0110D590ED5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19C99FB3-9936-48D8-A2A7-0110D590ED5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19C99FB3-9936-48D8-A2A7-0110D590ED5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11552156-773E-40E5-A193-5360C9E7DA4E}
+	EndGlobalSection
+EndGlobal
